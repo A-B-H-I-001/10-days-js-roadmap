@@ -19,40 +19,47 @@
 - Parameters and Return Values
 - Arrow functions (`() => {}`)
 
-## Day 4: Arrays and Objects
+## Day 4: Strings (Updated)
+- What are Strings in JavaScript?
+- Creating Strings: Using single quotes (`'`), double quotes (`"`), or backticks (`` ` ``)
+- String Methods:
+  - `.length`: Get the length of a string.
+  - `.toUpperCase()`, `.toLowerCase()`: Convert string case.
+  - `.indexOf()`, `.substring()`, `.slice()`: Extract part of a string.
+  - `.replace()`: Replace a part of a string.
+- String Concatenation and Template Literals: 
+  - Using `+` for concatenation.
+  - Template literals (` `` `) for easier string embedding.
+
+## Day 5: Arrays and Objects
 - Arrays: Creating, Accessing, Looping through
 - Array Methods: `push()`, `pop()`, `shift()`, `unshift()`, `forEach()`
 - Objects: Creating, Accessing, and Modifying properties
 - JSON (JavaScript Object Notation)
 
-## Day 5: Loops and Iteration
+## Day 6: Loops and Iteration
 - `for`, `while`, `do-while` loops
 - `for...in`, `for...of` loops for objects and arrays
 - Break and Continue
 
-## Day 6: DOM Manipulation
+## Day 7: DOM Manipulation
 - What is DOM (Document Object Model)?
 - Selecting elements (`getElementById()`, `querySelector()`)
 - Modifying HTML, CSS with JavaScript
 - Event Handling (e.g., `click`, `mouseover`)
 
-## Day 7: Asynchronous JavaScript
+## Day 8: Asynchronous JavaScript
 - Introduction to Asynchronous JavaScript
 - Callbacks, Promises, and Async/Await
 - Fetch API to make API calls
 - Error Handling with `try`, `catch`
 
-## Day 8: ES6 Features
+## Day 9: ES6 Features
 - Template Literals (`` `${}` ``)
 - Destructuring Assignment
 - Spread and Rest operators (`...`)
 - Default Parameters in functions
 - Classes and Inheritance
-
-## Day 9: JavaScript Libraries and Frameworks
-- Introduction to Libraries and Frameworks (jQuery, React, Vue.js)
-- Using third-party libraries in JavaScript
-- Introduction to Node.js (Backend JavaScript)
 
 ## Day 10: JavaScript Projects and Practice
 - Build a simple JavaScript project (e.g., Calculator, To-do list)
@@ -63,4 +70,3 @@
 ## Conclusion
 - Congratulations on completing the 10-day JavaScript roadmap!
 - Keep practicing and building projects to master JavaScript.
-
